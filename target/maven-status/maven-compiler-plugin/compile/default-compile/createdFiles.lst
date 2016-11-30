@@ -1,0 +1,5 @@
+br\com\fwtj\jsfspring\DataHora.class
+br\com\fwtj\jsfspring\Main.class
+br\com\fwtj\jsfspring\ViewScopeConfig.class
+br\com\fwtj\jsfspring\ViewScope.class
+br\com\fwtj\jsfspring\SpringWebApplicationInitializer.class
